@@ -4,12 +4,12 @@ const wines = [
   {
     title: 'Chapel Hill Shiraz',
     price: '$56',
-    tags: 'AU | Bottle',
+    tags: 'AU | 750 ml',
   },
   {
     title: 'Catena Malbee',
     price: '$59',
-    tags: 'AU | Bottle',
+    tags: 'AU | 500 ml',
   },
   {
     title: 'La Vieillw Rose',
@@ -30,19 +30,19 @@ const wines = [
 
 const cocktails = [
   {
-    title: 'Aperol Sprtiz',
+    title: 'Sprtiz',
     price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    tags: 'Villa Marchesi prosecco | soda | 30 ml',
   },
   {
     title: "Dark 'N' Stormy",
     price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    tags: 'Chocolate amargo | Slice of lime',
   },
   {
-    title: 'Daiquiri',
+    title: 'Lemonade Mouth',
     price: '$10',
-    tags: 'Rum | Citrus juice | Sugar',
+    tags: 'Citrico | Sugar',
   },
   {
     title: 'Old Fashioned',
@@ -60,22 +60,22 @@ const awards = [
   {
     imgUrl: images.award02,
     title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Distinción a la Excelencia Culinaria en Repostería Gourmet.',
   },
   {
     imgUrl: images.award01,
     title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Premio a la Innovación Gastronómica en Postres Helados.',
   },
   {
     imgUrl: images.award05,
     title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Galardón a la Maestría en Texturas y Sutilezas en Postres.',
   },
   {
     imgUrl: images.award03,
     title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Reconocimiento a la Excelencia en Experiencia Sensorial en Alta Repostería.',
   },
 ];
 

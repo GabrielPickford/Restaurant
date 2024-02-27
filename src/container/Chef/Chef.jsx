@@ -10,20 +10,20 @@ const Chef = () => (
       <img src={images.chef} alt="chef_image" />
     </div>
     <div className="app__wrapper_info">
-      <SubHeading title="Chef's word" />
-      <h1 className="headtext__cormorant">What we believe in</h1>
+      <SubHeading title="Palabras de la Chef" />
+      <h1 className="headtext__cormorant">En lo que creemos</h1>
 
       <div className="app__chef-content">
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote_image" />
-          <p className="p__opensans">Lorem ipsum dolor sit amet, consectetur adipiscing elit auctor sit .</p>
+          <p className="p__opensans">En mi cocina, siempre he abrazado la filosofía de que la excelencia se encuentra en la calidad, no en la cantidad.</p>
         </div>
-        <p className="p__opensans"> auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget sit. Nulla scelerisque scelerisque congue ac consequat, aliquam molestie lectus eu. Congue iaculis integer curabitur semper sit nunc. </p>
+        <p className="p__opensans">  Cada ingrediente, cada detalle, es una expresión de dedicación y pasión.  </p>
       </div>
 
       <div className="app__chef-sign">
         <p>Camila Bonino</p>
-        <p className="p__opensans">Chef & Founder</p>
+        <p className="p__opensans">Chef y Fundadora</p>
         <img src={images.sign} alt="sign_image" />
       </div>
     </div>
