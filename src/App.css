@@ -9,11 +9,12 @@
 }
 
 .app__bg {
-  background: url('./assets/bg.png');
+  background-color: rgb(17, 17, 17);
+  /* background: url('./assets/bg.png');
   background-position: center;
   background-size: cover;
   background-repeat: repeat;
-  background-attachment: fixed;
+  background-attachment: fixed; */
 }
 
 .app__wrapper {
@@ -31,7 +32,7 @@
   justify-content: center;
   align-items: flex-start;
   flex-direction: column;
-}
+} 
 
 .app__wrapper_img {
   flex: 1;

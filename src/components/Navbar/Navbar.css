@@ -48,7 +48,7 @@
     transition: .5s ease;
 }
 
-.app__navbar-login a:hover {
+.app__navbar-login a:hover  {
     border-bottom: 1px solid var(--color-golden);
 }
 
